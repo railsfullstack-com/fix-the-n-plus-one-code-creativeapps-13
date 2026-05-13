@@ -1,7 +1,5 @@
 source "https://rubygems.org"
 
-ruby "~> 3.3"
-
 gem "activerecord", "~> 7.2"
 gem "sqlite3",      "~> 2.1"
 
